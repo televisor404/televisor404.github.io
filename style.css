@@ -1,0 +1,63 @@
+body {
+  padding: 14px;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+
+
+}
+
+#titulo {
+  color: yellow;
+  font-weight: bolder;
+  border: 4px solid red;
+  height: 8%;
+  width: 50%;
+  margin: auto;
+  background-image:linear-gradient(red,yellow)
+}
+
+
+
+
+
+
+#pie {
+    border-top: solid 1px;
+    background: rgb(3, 3, 3);
+    width: 100%;
+    height: 10%;
+    padding-top: 10px;
+    position: absolute;
+    bottom: -1000;
+    left: 0;
+    text-align: center;
+    
+  }
+
+.texto {
+  width: 74%;
+  margin: auto;
+
+}
+
+.kromer {
+  color: rgb(0, 226, 0)
+}
+
+.subtexto {
+  font-style: italic;
+  font-size: smaller;
+}
+
+#sans {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  width: 40%;
+  height: 40px;
+  margin: auto;
+  font-size: large;
+  color: red;
+  font-family: comic-sans;
+  
+}
